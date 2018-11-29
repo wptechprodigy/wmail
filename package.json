@@ -1,0 +1,19 @@
+{
+  "name": "wmail",
+  "version": "1.0.0",
+  "description": "A non-trivial MVP email app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wptechprodigy/wmail.git"
+  },
+  "author": "Waheed Afolabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wptechprodigy/wmail/issues"
+  },
+  "homepage": "https://github.com/wptechprodigy/wmail#readme"
+}
